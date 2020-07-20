@@ -1,2 +1,2 @@
 # Decision_Tree_Classifier
-For the given ‘Iris’ dataset, create the Decision Tree classifier and visualize it graphically. 
+To create the Decision Tree classifier and visualize it graphically for the given ‘Iris’ dataset, . 
